@@ -27,8 +27,8 @@ export default async function Header() {
       <nav className="container mx-auto px-4 h-16 flex items-center justify-between">
         <Link href="/">
           <Image
-            src={"/logo.png"}
-            alt="Sensai Logo"
+            src={"/logo.jpg"}
+            alt="Talent ForgeLogo"
             width={200}
             height={60}
             className="h-12 py-1 w-auto object-contain"
@@ -44,7 +44,7 @@ export default async function Header() {
                 className="hidden md:inline-flex items-center gap-2"
               >
                 <LayoutDashboard className="h-4 w-4" />
-                Industry Insights
+                Technology Trends
               </Button>
               <Button variant="ghost" className="md:hidden w-10 h-10 p-0">
                 <LayoutDashboard className="h-4 w-4" />
