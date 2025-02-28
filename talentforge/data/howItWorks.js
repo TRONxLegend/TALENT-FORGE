@@ -22,4 +22,9 @@ export const howItWorks = [
     description: "Monitor improvements with detailed performance analytics",
     icon: <LineChart className="w-8 h-8 text-primary" />,
   },
+  {
+    title: "Resume ATS Checker",
+    description: "Check Your Resume and improvements with detailed performance analytics",
+    icon: <LineChart className="w-8 h-8 text-primary" />,
+  },
 ];

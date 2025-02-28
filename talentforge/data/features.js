@@ -24,4 +24,9 @@ export const features = [
     title: "Smart Resume Creation",
     description: "Generate ATS-optimized resumes with AI assistance.",
   },
+  {
+    icon: <ScrollText className="w-10 h-10 mb-4 text-primary" />,
+    title: "Resume ATS Checker",
+    description: "Check ATS Score Of Your resumes with AI assistance.",
+  },
 ];

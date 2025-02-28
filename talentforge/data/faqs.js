@@ -1,32 +1,26 @@
 export const faqs = [
   {
-    question: "What makes Sensai unique as a career development tool?",
-    answer:
-      "Sensai combines AI-powered career tools with industry-specific insights to help you advance your career. Our platform offers three main features: an intelligent resume builder, a cover letter generator, and an adaptive interview preparation system. Each tool is tailored to your industry and skills, providing personalized guidance for your professional journey.",
+    "question": "What makes TalentForge AI a powerful career development tool?",
+    "answer": "TalentForge AI is an all-in-one career accelerator that leverages artificial intelligence to optimize job applications and career growth. It offers five key features: an AI-powered mock test system, an intelligent resume builder, a cover letter generator, real-time job market trend analysis, and an advanced ATS resume checker. These tools are designed to provide personalized guidance based on your skills and industry requirements, helping you stay ahead in your career."
   },
   {
-    question: "How does Sensai create tailored content?",
-    answer:
-      "Sensai learns about your industry, experience, and skills during onboarding. It then uses this information to generate customized resumes, cover letters, and interview questions. The content is specifically aligned with your professional background and industry standards, making it highly relevant and effective.",
+    "question": "How does TalentForge AI generate personalized career content?",
+    "answer": "TalentForge AI gathers insights from your skills, experience, and industry preferences during onboarding. Using this data, it crafts ATS-optimized resumes, tailored cover letters, and even interview prep content. Our AI ensures that every piece of content aligns with industry standards and is customized for your professional background."
   },
   {
-    question: "How accurate and up-to-date are Sensai's industry insights?",
-    answer:
-      "We update our industry insights weekly using advanced AI analysis of current market trends. This includes salary data, in-demand skills, and industry growth patterns. Our system constantly evolves to ensure you have the most relevant information for your career decisions.",
+    "question": "How does TalentForge AI keep its job market insights up to date?",
+    "answer": "Our system continuously analyzes hiring trends, salary benchmarks, and in-demand skills using AI-powered market research. This ensures that you always have access to the latest job trends, helping you make informed career decisions."
   },
   {
-    question: "Is my data secure with Sensai?",
-    answer:
-      "Absolutely. We prioritize the security of your professional information. All data is encrypted and securely stored using industry-standard practices. We use Clerk for authentication and never share your personal information with third parties.",
+    "question": "How secure is my data on TalentForge AI?",
+    "answer": "We take your privacy seriously. All user data is encrypted and stored securely using industry-leading security protocols. We use robust authentication methods and do not share your personal information with third parties."
   },
   {
-    question: "How can I track my interview preparation progress?",
-    answer:
-      "Sensai tracks your performance across multiple practice interviews, providing detailed analytics and improvement suggestions. You can view your progress over time, identify areas for improvement, and receive AI-generated tips to enhance your interview skills based on your responses.",
+    "question": "How does the AI-powered mock test system improve my interview skills?",
+    "answer": "TalentForge AI provides an adaptive interview practice platform that tailors questions based on your target job role. It evaluates your responses, provides instant feedback, and suggests improvements, ensuring that you become more confident and well-prepared for real interviews."
   },
   {
-    question: "Can I edit the AI-generated content?",
-    answer:
-      "Yes! While Sensai generates high-quality initial content, you have full control to edit and customize all generated resumes, cover letters, and other content. Our markdown editor makes it easy to refine the content to perfectly match your needs.",
-  },
-];
+    "question": "Can I customize the AI-generated resume and cover letter?",
+    "answer": "Absolutely! TalentForge AI generates high-quality initial drafts, but you have full control to edit and fine-tune them. Our user-friendly editor allows you to tweak every detail, ensuring your resume and cover letter perfectly match your career aspirations."
+  }
+]
