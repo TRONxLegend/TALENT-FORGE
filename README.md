@@ -71,8 +71,20 @@ npm install
 Create a `.env` file and add your credentials:
 ```env
 
-DATABASE_URL=your_postgresql_database_url
-NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+  
+DATABASE_URL=
+
+
+GEMINI_API_KEY=
 ```
 
 ### Running the Project
