@@ -1,7 +1,7 @@
 
 # Talent Forge
 
-🚀 **Your AI-Powered Career Coach**
+🚀 **Your AI-Powered Career Coach🧑‍💻**
 
 Talent Forge is an intelligent career assistant designed to help job seekers optimize their resumes, prepare for interviews, and stay updated with industry trends. Whether you're a fresher or an experienced professional, Talent Forge provides the tools you need to land your dream job.
 
